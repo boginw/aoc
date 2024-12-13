@@ -77,4 +77,3 @@ function day10part2() {
     return trails
 }
 
-day10part2()
