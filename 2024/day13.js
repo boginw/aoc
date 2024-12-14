@@ -21,7 +21,7 @@ function day13part1(increaseBy = 0) {
             for (let j = 0; j < matrix.length; j++) {
                 if (i === j) continue;
                 for (let k = i + 1; k < matrix[i].length; k++) {
-                    let divider = i == 0 ? 1 : matrix[i - 1][i - 1];
+                    const divider = i == 0 ? 1 : matrix[i - 1][i - 1];
                     matrix[j][k] = (matrix[i][i] * matrix[j][k] - matrix[j][i] * matrix[i][k]) / divider;
                 }
             }
