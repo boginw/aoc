@@ -1,7 +1,7 @@
 # Advent of Code
 
 [![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-ffff66?logo=adventofcode&logoColor=000)](<https://adventofcode.com/> "Advent of Code homepage")
-[![AoC 2024](https://img.shields.io/badge/2024-⭐%2030-gray?logo=adventofcode&labelColor=8a2be2)](https://adventofcode.com/2024)
+[![AoC 2024](https://img.shields.io/badge/2024-⭐%2032-gray?logo=adventofcode&labelColor=8a2be2)](https://adventofcode.com/2024)
 ![Last commit](https://img.shields.io/github/last-commit/boginw/aoc "Last commit")
 
 ---
